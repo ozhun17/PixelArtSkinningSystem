@@ -1,0 +1,16 @@
+{
+    "name": "com.mehmetutku.pixel-art-rigging-system",
+    "version": "1.0.0",
+    "displayName": "Pixel Art Skinning System",
+    "description": "A shader package that helps with pixel art skinning",
+    "unity" : "2020.1",
+    "dependencies": {
+
+    },
+    "keywords": ["library", "utility", "Pixel Art", "skinning", "rigging"],
+    "author": {
+        "name": "Mehmet Utku Ozhun",
+        "email": "ozhun17@itu.edu.tr",
+        "url": "https://www.linkedin.com/in/mehmet-utku-ozhun/"
+    }
+}
